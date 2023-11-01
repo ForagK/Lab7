@@ -16,3 +16,4 @@ int main()
     y = (log(sum)+2*x) / (pow(x, 4) + 5);
     cout << "\nY=" << y;
 }
+// test123
